@@ -15,7 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](https://i.imgur.com/MQLtYjA.gif)
+![colorshift-demo](https://github.com/user-attachments/assets/7e0a79f6-12b5-4b3f-831e-233b9d6ceae2)
+
 
 ## App Brainstorming (Step 4)
 
